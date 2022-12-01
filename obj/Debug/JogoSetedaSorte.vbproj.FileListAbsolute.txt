@@ -1,0 +1,39 @@
+C:\Users\Felipe\Desktop\Uninter Aula Visual Studio\JogoSetedaSortesln\JogoSetedaSorte\bin\Debug\JogoSetedaSorte.exe.config
+C:\Users\Felipe\Desktop\Uninter Aula Visual Studio\JogoSetedaSortesln\JogoSetedaSorte\bin\Debug\JogoSetedaSorte.exe
+C:\Users\Felipe\Desktop\Uninter Aula Visual Studio\JogoSetedaSortesln\JogoSetedaSorte\bin\Debug\JogoSetedaSorte.pdb
+C:\Users\Felipe\Desktop\Uninter Aula Visual Studio\JogoSetedaSortesln\JogoSetedaSorte\bin\Debug\JogoSetedaSorte.xml
+C:\Users\Felipe\Desktop\Uninter Aula Visual Studio\JogoSetedaSortesln\JogoSetedaSorte\obj\Debug\JogoSetedaSorte.vbproj.AssemblyReference.cache
+C:\Users\Felipe\Desktop\Uninter Aula Visual Studio\JogoSetedaSortesln\JogoSetedaSorte\obj\Debug\JogoSetedaSorte.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Felipe\Desktop\Uninter Aula Visual Studio\JogoSetedaSortesln\JogoSetedaSorte\obj\Debug\JogoSetedaSorte.Form1.resources
+C:\Users\Felipe\Desktop\Uninter Aula Visual Studio\JogoSetedaSortesln\JogoSetedaSorte\obj\Debug\JogoSetedaSorte.Resources.resources
+C:\Users\Felipe\Desktop\Uninter Aula Visual Studio\JogoSetedaSortesln\JogoSetedaSorte\obj\Debug\JogoSetedaSorte.vbproj.GenerateResource.cache
+C:\Users\Felipe\Desktop\Uninter Aula Visual Studio\JogoSetedaSortesln\JogoSetedaSorte\obj\Debug\JogoSetedaSorte.vbproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\Uninter Aula Visual Studio\JogoSetedaSortesln\JogoSetedaSorte\obj\Debug\JogoSetedaSorte.exe
+C:\Users\Felipe\Desktop\Uninter Aula Visual Studio\JogoSetedaSortesln\JogoSetedaSorte\obj\Debug\JogoSetedaSorte.xml
+C:\Users\Felipe\Desktop\Uninter Aula Visual Studio\JogoSetedaSortesln\JogoSetedaSorte\obj\Debug\JogoSetedaSorte.pdb
+C:\Users\Felipe\Desktop\unintervisualstudio\JogoSetedaSortesln\JogoSetedaSorte\bin\Debug\JogoSetedaSorte.exe.config
+C:\Users\Felipe\Desktop\unintervisualstudio\JogoSetedaSortesln\JogoSetedaSorte\bin\Debug\JogoSetedaSorte.exe
+C:\Users\Felipe\Desktop\unintervisualstudio\JogoSetedaSortesln\JogoSetedaSorte\bin\Debug\JogoSetedaSorte.pdb
+C:\Users\Felipe\Desktop\unintervisualstudio\JogoSetedaSortesln\JogoSetedaSorte\bin\Debug\JogoSetedaSorte.xml
+C:\Users\Felipe\Desktop\unintervisualstudio\JogoSetedaSortesln\JogoSetedaSorte\obj\Debug\JogoSetedaSorte.vbproj.AssemblyReference.cache
+C:\Users\Felipe\Desktop\unintervisualstudio\JogoSetedaSortesln\JogoSetedaSorte\obj\Debug\JogoSetedaSorte.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Felipe\Desktop\unintervisualstudio\JogoSetedaSortesln\JogoSetedaSorte\obj\Debug\JogoSetedaSorte.Form1.resources
+C:\Users\Felipe\Desktop\unintervisualstudio\JogoSetedaSortesln\JogoSetedaSorte\obj\Debug\JogoSetedaSorte.Resources.resources
+C:\Users\Felipe\Desktop\unintervisualstudio\JogoSetedaSortesln\JogoSetedaSorte\obj\Debug\JogoSetedaSorte.vbproj.GenerateResource.cache
+C:\Users\Felipe\Desktop\unintervisualstudio\JogoSetedaSortesln\JogoSetedaSorte\obj\Debug\JogoSetedaSorte.vbproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\unintervisualstudio\JogoSetedaSortesln\JogoSetedaSorte\obj\Debug\JogoSetedaSorte.exe
+C:\Users\Felipe\Desktop\unintervisualstudio\JogoSetedaSortesln\JogoSetedaSorte\obj\Debug\JogoSetedaSorte.xml
+C:\Users\Felipe\Desktop\unintervisualstudio\JogoSetedaSortesln\JogoSetedaSorte\obj\Debug\JogoSetedaSorte.pdb
+C:\unintervisualstudio\JogoSetedaSortesln\JogoSetedaSorte\bin\Debug\JogoSetedaSorte.exe.config
+C:\unintervisualstudio\JogoSetedaSortesln\JogoSetedaSorte\bin\Debug\JogoSetedaSorte.exe
+C:\unintervisualstudio\JogoSetedaSortesln\JogoSetedaSorte\bin\Debug\JogoSetedaSorte.pdb
+C:\unintervisualstudio\JogoSetedaSortesln\JogoSetedaSorte\bin\Debug\JogoSetedaSorte.xml
+C:\unintervisualstudio\JogoSetedaSortesln\JogoSetedaSorte\obj\Debug\JogoSetedaSorte.vbproj.AssemblyReference.cache
+C:\unintervisualstudio\JogoSetedaSortesln\JogoSetedaSorte\obj\Debug\JogoSetedaSorte.vbproj.SuggestedBindingRedirects.cache
+C:\unintervisualstudio\JogoSetedaSortesln\JogoSetedaSorte\obj\Debug\JogoSetedaSorte.Form1.resources
+C:\unintervisualstudio\JogoSetedaSortesln\JogoSetedaSorte\obj\Debug\JogoSetedaSorte.Resources.resources
+C:\unintervisualstudio\JogoSetedaSortesln\JogoSetedaSorte\obj\Debug\JogoSetedaSorte.vbproj.GenerateResource.cache
+C:\unintervisualstudio\JogoSetedaSortesln\JogoSetedaSorte\obj\Debug\JogoSetedaSorte.vbproj.CoreCompileInputs.cache
+C:\unintervisualstudio\JogoSetedaSortesln\JogoSetedaSorte\obj\Debug\JogoSetedaSorte.exe
+C:\unintervisualstudio\JogoSetedaSortesln\JogoSetedaSorte\obj\Debug\JogoSetedaSorte.xml
+C:\unintervisualstudio\JogoSetedaSortesln\JogoSetedaSorte\obj\Debug\JogoSetedaSorte.pdb
